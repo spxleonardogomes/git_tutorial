@@ -1,2 +1,5 @@
+import pandas as pd
+
 if __name__ == "__main__":
-    print("FEATURE!", __name__)
+    df = pd.DataFrame((1,2,3))
+    print("FEATURE!", df)

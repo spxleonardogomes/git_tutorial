@@ -6,3 +6,12 @@ change
 
 ## This has a python feature
 feature does ...
+
+## Setup
+python version: 3.9.6
+
+```
+python3 -m venv .venv
+./.venv/Scripts/activate
+pip install -r requirements.txt
+```
